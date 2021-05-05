@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- For more information, and to check out some of my current and past projects, visit my [website](nlaha.com).
+
 <!--
 **nlaha/nlaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
