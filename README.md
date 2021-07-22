@@ -5,5 +5,8 @@ I'm a freshman computer science student at Washington State University, and comp
 
 #### Contact Me
 Email: [nlaha@outlook.com](mailto:nlaha@outlook.com)
+
 Instagram: [@nathan.laha](https://instagram.com/nathan.laha)
+
 Discord: nlaha#0460
+
