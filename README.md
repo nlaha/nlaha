@@ -12,6 +12,4 @@ Instagram: [@nathan.laha](https://instagram.com/nathan.laha)
 
 Discord: nlaha#0460
 
-[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlaha&theme=tokyonight)](https://github.com/nlaha/github-readme-stats)
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B1CDW9P)
