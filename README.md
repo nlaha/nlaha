@@ -3,8 +3,6 @@ I'm a 2nd year computer science student at Washington State University, and comp
 
 - For more information, and to check out some of my current and past projects, visit my [website](https://nlaha.com).
 
-- "XML is crap. Really. There are no excuses. XML is nasty to parse for humans, and it's a disaster to parse even for computers. There's just no reason for that horrible crap to exist." - Linus Torvalds
-
 #### Contact Me
 Email: [nlaha@outlook.com](mailto:nlaha@outlook.com)
 
