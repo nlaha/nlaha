@@ -4,10 +4,6 @@ I'm a 3rd year computer science student at Washington State University, and comp
 #### Contact Me
 Email: [nlaha@outlook.com](mailto:nlaha@nlaha.com)
 
-Instagram: [@nathan.laha](https://instagram.com/nathan.laha)
-
-Discord: nlaha#0460
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B1CDW9P)
 
 ![Alt Text](https://media.giphy.com/media/JUwa2qSoTwcxv0gFJh/giphy.gif)
