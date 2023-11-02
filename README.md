@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 I'm a 3rd year computer science student at Washington State University, and computing enthusiast. I work on many different programming projects in my free time, however some of my favorite work involves 3D and computer graphics.
 
 #### Contact Me
@@ -8,3 +8,4 @@ Email: [nlaha@nlaha.com](mailto:nlaha@nlaha.com)
 
 ![Alt Text](https://media.giphy.com/media/JUwa2qSoTwcxv0gFJh/giphy.gif)
 
+Art credit: http://www.markferrari.com/
