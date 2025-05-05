@@ -1,5 +1,5 @@
 Hi there 👋
-I'm a 4th year computer science student at Washington State University, and computing enthusiast. I work on many different programming projects in my free time, however some of my favorite work involves 3D and computer graphics.
+I'm a Software Engineer based in Seattle. I work on many different programming projects in my free time, however some of my favorite work involves 3D and computer graphics.
 
 #### Contact Me
 Email: [nlaha@nlaha.com](mailto:nlaha@nlaha.com)
