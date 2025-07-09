@@ -6,6 +6,3 @@ Email: [nlaha@nlaha.com](mailto:nlaha@nlaha.com)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B1CDW9P)
 
-![Alt Text](https://media.giphy.com/media/JUwa2qSoTwcxv0gFJh/giphy.gif)
-
-Art credit: http://www.markferrari.com/
